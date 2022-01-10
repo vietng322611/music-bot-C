@@ -1,4 +1,4 @@
-# C sharp music bot
+# C# music bot
 A music bot using discord.net
 ## Requirements
 - Java 11* LTS or newer required
